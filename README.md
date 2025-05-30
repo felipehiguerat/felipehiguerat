@@ -64,7 +64,7 @@
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:felipehiguera@example.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=282828"/></a>
+  <a href="mailto:felipehiguera27@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=282828"/></a>
   <a href="https://github.com/felipehigue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=3c3836"/></a> <!-- GitHub ya es oscuro, pero puedes ajustar si quieres -->
 </p>
 
