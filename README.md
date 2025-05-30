@@ -1,6 +1,6 @@
 <!-- Banner Personalizado -->
 <p align="center">
-  <img src="https://github.com/felipehigue/felipehigue/blob/main/Leonardo_Phoenix_09_Create_an_eyecatching_banner_image_featuri_0.jpg" alt="Banner de Felipe Higuera" width="800"/>
+  <img src="https://github.com/felipehigue/felipehigue/blob/main/Leonardo_Phoenix_09_Create_an_eyecatching_banner_image_featuri_0.jpg" alt="Banner de Felipe Higuera" width="100%"/>
   <!-- Ajusta el 'width' según sea necesario. 800px suele ser un buen punto de partida. -->
 </p>
 
