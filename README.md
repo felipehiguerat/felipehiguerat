@@ -44,8 +44,10 @@
 
 | 📌 Proyecto | Descripción | Tecnologías |
 |------------|-------------|-------------|
-| [EDA - Análisis Exploratorio](https://github.com/felipehigue/An-lisis-Exploratorio-de-Datos-EDA) | Limpieza y análisis de datos con Pandas y visualización con matplotlib. | `Python`, `Pandas`, `Jupyter` |
-| [Panel Estadístico de Datos](https://github.com/felipehigue/panel-proyecto) | Visualización interactiva de estadísticas en notebooks. | `Python`, `Seaborn`, `Jupyter` |
+| [EDA - Análisis Exploratorio](https://github.com/felipehiguerat/An-lisis-Exploratorio-de-Datos-EDA) | Limpieza y análisis de datos con Pandas y visualización con matplotlib. | `Python`, `Pandas`, `Jupyter` |
+| [Panel Estadístico de Datos](https://github.com/felipehiguerat/panel-proyecto) | Visualización interactiva de estadísticas en notebooks. | `Python`, `Seaborn`, `Jupyter` |
+| [Housepredictor](https://github.com/felipehiguerat/Housepredictor)| entrenamiento de modelos de Ml house predictor| `Python`, `Seaborn`, `Jupyter`, `Next`|
+
 
 ---
 
